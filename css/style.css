@@ -1,0 +1,94 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container{
+    
+width: 1200px;
+    
+height: 200px;
+    
+background-color: wheat;
+    
+margin: 0 auto;
+}
+.row{
+    height: 80%;
+    background-color: wheat;
+    margin: auto;
+}
+.box-1{
+    
+height: 100%;
+    
+float: left;
+    
+width: 32%;
+margin-right: 10px;
+background-color: rgb(224, 200, 200) ;
+}
+.box-7{
+    
+    height: 100%;
+        
+    float: left;
+        
+    width: 32%;
+    margin-right: 10px;
+    background-color: rgb(71, 9, 9) ;
+    }
+    .box-8{
+    
+        height: 100%;
+            
+        float: left;
+            
+        width: 32%;
+        margin-right: 10px;
+        background-color: rgb(228, 230, 111) ;
+        }
+.row-1{
+     height: 80%;
+    background-color:rgb(43, 122, 211);
+    margin: auto;
+    width:98%;
+}
+.row .box-2{
+    height: 100%;
+    float: left;
+    width: 49%;
+    margin-right: 10px;
+    background-color:rgb(204, 40, 95);
+}
+.row .box-6{
+    height: 100%;
+    float: left;
+    width: 49%;
+    margin-right: 10px;
+    background-color: rgb(103, 192, 233);
+}
+.row .box-3{
+    height: 100%;
+    float: left;
+    width: 50%;
+    margin-right: 10px;
+    background-color: rgb(204, 40, 95);
+}
+.row .box-4{
+    height: 100%;
+    float: left;
+    width: 23%;
+    margin-right: 10px;
+    background-color: rgb(228, 168, 39);
+}
+.row .box-5{
+    height: 100%;
+    float: left;
+    width: 24%;
+    margin-right: 10px;
+    background-color: rgb(114, 148, 70);
+}
+
+
